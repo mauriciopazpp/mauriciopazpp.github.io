@@ -2468,7 +2468,7 @@ input, select, textarea {
 		font-weight: bold;
 	}
 
-	/* #preload {
+	#preload {
 		position: absolute;
 		top: 0;
 		left: 0;
@@ -2486,9 +2486,9 @@ input, select, textarea {
 		animation: cssAnimation 0s ease-in 1s forwards;
 		-webkit-animation-fill-mode: forwards;
 		animation-fill-mode: forwards;
-	} */
+	}
 
-	/* @keyframes cssAnimation {
+	@keyframes cssAnimation {
 		to {
 			width:0;
 			height:0;
@@ -2501,7 +2501,7 @@ input, select, textarea {
 			height:0;
 			visibility:hidden;
 		}
-	} */
+	}
 
 	html {
 		scroll-behavior: smooth !important;
