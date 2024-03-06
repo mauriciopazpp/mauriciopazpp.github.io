@@ -1,7 +1,3 @@
-IronPlane
-- Tacony Online
-- Tacony Baby Lock
-
 BlueAcorn
 - Love Sac
 - Implus
@@ -36,3 +32,6 @@ Redstage
 - Mdmymdgear
 - Redding Medical
 
+IronPlane
+- Tacony Online
+- Tacony Baby Lock

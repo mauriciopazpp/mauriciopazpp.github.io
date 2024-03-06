@@ -2520,6 +2520,7 @@ input, select, textarea {
 		color: white;
 		text-align: left;
 		padding: 40px;
+		background-size: cover !important;
 
 		display: flex;
 		flex-direction: column;
@@ -2527,10 +2528,6 @@ input, select, textarea {
 
 		width: 100%;
 		height: 480px;
-		-webkit-background-size: cover  !important;
-		-moz-background-size: cover  !important;
-		-o-background-size: cover  !important;
-		background-size: cover !important;
 	}
 
 	#portfolio .gallery article > .information {
