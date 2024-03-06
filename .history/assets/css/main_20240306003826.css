@@ -2516,6 +2516,10 @@ input, select, textarea {
 		scroll-behavior: smooth !important;
 	}
 
+	#portfolio .content {
+		width: initial;
+	}
+
 	#portfolio .gallery {
 		width: 100%;
 	}

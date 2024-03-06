@@ -2432,6 +2432,10 @@ input, select, textarea {
 		padding: 40px;
 	}
 
+	#portfolio .content {
+		width: 100%;
+	}
+
 	.gallery article {
 		color: white;
 		text-align: left;
@@ -2516,8 +2520,12 @@ input, select, textarea {
 		scroll-behavior: smooth !important;
 	}
 
+	#portfolio .content {
+		width: initial;
+	}
+
 	#portfolio .gallery {
-		width: 100%;
+		width: initial;
 	}
 
 	#portfolio .gallery article > .image {
